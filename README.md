@@ -1,4 +1,4 @@
-🔴 # Anomalias
+# 🔴 Anomalias
 
 ## 1. Anomalia de Inserção
 
